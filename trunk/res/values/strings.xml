@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Media Rescan</string>
+    <string name="info_text">Successfully initiated media re-scan!</string>
+    <string name="error_nosd">Could not access SD Card! (Has the system mounted it yet?)</string>
+
+</resources>
