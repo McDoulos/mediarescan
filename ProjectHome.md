@@ -1,0 +1,1 @@
+As an alternative to beg-ware Android apps that do the same thing, Media Rescan provides a completely free and open Android application to initiate a re-scan of your media (external only, for now).
